@@ -1,39 +1,39 @@
-Student_Name,Preference_1,Preference_2,Preference_3,Charecterstics
-Symon Sylvain King,Ajax High School,Anderson Collegiate Vocational Institute,Bowmanville High School,NL
-Simeon Senior King,Anderson Collegiate Vocational Institute,Bowmanville High School,Brock High School,CA
-Steadman Sargent King,Bowmanville High School,Brock High School,Cartwright High School,INT
-Simon Sebastien King,Brock High School,Cartwright High School,Clarington Central Secondary School,NL
-Shelton Sezni King,Cartwright High School,Clarington Central Secondary School,Clarke High School,CA
-Stetson Stephane King,Clarington Central Secondary School,Clarke High School,Courtice Secondary School,INT
-Solomon Similien King,Clarke High School,Courtice Secondary School,Ajax High School,NL
-Sheridan Saville King,Courtice Secondary School,Ajax High School,Anderson Collegiate Vocational Institute,CA
-Sinjon Sylvestre King,Ajax High School,Anderson Collegiate Vocational Institute,Bowmanville High School,INT
-Shevon Serge King,Anderson Collegiate Vocational Institute,Bowmanville High School,Brock High School,NL
-Shaun Satch King,Bowmanville High School,Brock High School,Cartwright High School,CA
-Sebastian Saber King,Brock High School,Cartwright High School,Clarington Central Secondary School,INT
-Sherman Sumner King,Cartwright High School,Clarington Central Secondary School,Clarke High School,NL
-Selwyn Salomon King,Clarington Central Secondary School,Clarke High School,Courtice Secondary School,CA
-Shannon Sennett King,Clarke High School,Courtice Secondary School,Ajax High School,INT
-Steven Sergeant King,Courtice Secondary School,Ajax High School,Anderson Collegiate Vocational Institute,NL
-Shaquan Shivam King,Ajax High School,Anderson Collegiate Vocational Institute,Bowmanville High School,CA
-Sherwin Subhaan King,Anderson Collegiate Vocational Institute,Bowmanville High School,Brock High School,INT
-Somerton Sufyan King,Bowmanville High School,Brock High School,Cartwright High School,NL
-Sloan Sam King,Brock High School,Cartwright High School,Clarington Central Secondary School,CA
-Seton Sebastian King,Cartwright High School,Clarington Central Secondary School,Clarke High School,INT
-Sherborn Saba King,Clarington Central Secondary School,Clarke High School,Courtice Secondary School,NL
-Severin Sulayman King,Clarke High School,Courtice Secondary School,Ajax High School,CA
-Stephen Saif King,Courtice Secondary School,Ajax High School,Anderson Collegiate Vocational Institute,INT
-Saxon Shelby King,Ajax High School,Anderson Collegiate Vocational Institute,Bowmanville High School,NL
-Shawn Sian King,Anderson Collegiate Vocational Institute,Bowmanville High School,Brock High School,CA
-Sampson Steffan King,Bowmanville High School,Brock High School,Cartwright High School,INT
-Swain Stella King,Brock High School,Cartwright High School,Clarington Central Secondary School,NL
-Sean Shane King,Cartwright High School,Clarington Central Secondary School,Clarke High School,CA
-Skelton Sonny King,Clarington Central Secondary School,Clarke High School,Courtice Secondary School,INT
-Stan Sachin King,Clarke High School,Courtice Secondary School,Ajax High School,NL
-Samson Saul King,Courtice Secondary School,Ajax High School,Anderson Collegiate Vocational Institute,CA
-Seldon Sana King,Ajax High School,Anderson Collegiate Vocational Institute,Bowmanville High School,INT
-Sheldon Sid King,Anderson Collegiate Vocational Institute,Bowmanville High School,Brock High School,NL
-Steffan Sean King,Bowmanville High School,Brock High School,Cartwright High School,CA
-Siobhan Steve King,Brock High School,Cartwright High School,Clarington Central Secondary School,INT
-Sebastien Safwan King,Cartwright High School,Clarington Central Secondary School,Ajax High School,NL
-Sufyaan Subhan King,Clarington Central Secondary School,Ajax High School,Anderson Collegiate Vocational Institute,CA
+Student_Name,Preference_1,Preference_2,Preference_3,Characteristics
+Symon Sylvain King,Ajax High School,Anderson Collegiate Vocational Institute,Brock High School,CA
+Simeon Senior King,Anderson Collegiate Vocational Institute,Bowmanville High School,Bowmanville High School,CA
+Steadman Sargent King,Bowmanville High School,Brock High School,Brock High School,INT
+Simon Sebastien King,Brock High School,Cartwright High School,Cartwright High School,CA
+Shelton Sezni King,Cartwright High School,Clarington Central Secondary School,Clarington Central Secondary School,INT
+Stetson Stephane King,Clarington Central Secondary School,Clarke High School,Clarke High School,INT
+Solomon Similien King,Clarke High School,Courtice Secondary School,Courtice Secondary School,CA
+Sheridan Saville King,Courtice Secondary School,Donald A Wilson Secondary School,Donald A Wilson Secondary School,INT
+Sinjon Sylvestre King,Donald A Wilson Secondary School,Dunbarton High School,Dunbarton High School,CA
+Shevon Serge King,Dunbarton High School,Durham Alternative Secondary School,Durham Alternative Secondary School,INT
+Shaun Satch King,Durham Alternative Secondary School,Eastdale Collegiate and Vocational Institute,Eastdale Collegiate and Vocational Institute,CA
+Sebastian Saber King,Eastdale Collegiate and Vocational Institute,G L Roberts Collegiate and Vocational Institute,G L Roberts Collegiate and Vocational Institute,CA
+Sherman Sumner King,G L Roberts Collegiate and Vocational Institute,Henry Street High School,Henry Street High School,CA
+Selwyn Salomon King,Henry Street High School,J. Clarke Richardson Collegiate,J. Clarke Richardson Collegiate,INT
+Shannon Sennett King,J. Clarke Richardson Collegiate,Maxwell Heights Secondary School,Maxwell Heights Secondary School,CA
+Steven Sergeant King,Maxwell Heights Secondary School,O'Neill Collegiate and Vocational Institute,O'Neill Collegiate and Vocational Institute,INT
+Shaquan Shivam King,O'Neill Collegiate and Vocational Institute,Oshawa Central Collegiate Institute,Oshawa Central Collegiate Institute,INT
+Sherwin Subhaan King,Oshawa Central Collegiate Institute,Pickering High School,Pickering High School,CA
+Somerton Sufyan King,Pickering High School,Pine Ridge Secondary School,Pine Ridge Secondary School,CA
+Sloan Sam King,Pine Ridge Secondary School,Port Perry High School,Port Perry High School,CA
+Seton Sebastian King,Port Perry High School,R S McLaughlin Collegiate and Vocational Institute,R S McLaughlin Collegiate and Vocational Institute,CA
+Sherborn Saba King,R S McLaughlin Collegiate and Vocational Institute,Sinclair Secondary School,Sinclair Secondary School,INT
+Severin Sulayman King,Sinclair Secondary School,Uxbridge Secondary School,Uxbridge Secondary School,CA
+Stephen Saif King,Uxbridge Secondary School,Ajax High School,Bowmanville High School,CA
+Saxon Shelby King,Ajax High School,Anderson Collegiate Vocational Institute,Brock High School,INT
+Shawn Sian King,Anderson Collegiate Vocational Institute,Bowmanville High School,Cartwright High School,INT
+Sampson Steffan King,Bowmanville High School,Brock High School,Clarington Central Secondary School,CA
+Swain Stella King,Brock High School,Cartwright High School,Clarke High School,CA
+Sean Shane King,Cartwright High School,Clarington Central Secondary School,Courtice Secondary School,INT
+Skelton Sonny King,Clarington Central Secondary School,Clarke High School,Donald A Wilson Secondary School,CA
+Stan Sachin King,Clarke High School,Courtice Secondary School,Dunbarton High School,INT
+Samson Saul King,Courtice Secondary School,Donald A Wilson Secondary School,Durham Alternative Secondary School,CA
+Seldon Sana King,Donald A Wilson Secondary School,Dunbarton High School,Eastdale Collegiate and Vocational Institute,CA
+Sheldon Sid King,Dunbarton High School,Durham Alternative Secondary School,G L Roberts Collegiate and Vocational Institute,INT
+Steffan Sean King,Durham Alternative Secondary School,Eastdale Collegiate and Vocational Institute,Henry Street High School,CA
+Siobhan Steve King,Eastdale Collegiate and Vocational Institute,G L Roberts Collegiate and Vocational Institute,J. Clarke Richardson Collegiate,INT
+Sebastien Safwan King,G L Roberts Collegiate and Vocational Institute,Henry Street High School,Maxwell Heights Secondary School,CA
+Sufyaan Subhan King,Henry Street High School,J. Clarke Richardson Collegiate,O'Neill Collegiate and Vocational Institute,CA
